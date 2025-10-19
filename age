@@ -1,0 +1,7 @@
+cd path/to/Profit-Precison
+git init
+git add .
+git commit -m "Launch Profit Precision site with age verification, TOS, Stripe and PDF"
+git remote add origin https://github.com/USERNAME/Profit-Precison.git
+git branch -M main
+git push -u origin main
